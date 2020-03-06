@@ -61,6 +61,8 @@ namespace QuotesApi.Controllers
                 entity.Author = quote.Author;
                 entity.Description = quote.Description;
                 entity.Title = quote.Title;
+                entity.Type = quote.Type;
+                entity.CreatedAt = quote.CreatedAt;
                 _quotesDbContext.SaveChanges();
                 return Ok("Record has been updated successfully.");
             }

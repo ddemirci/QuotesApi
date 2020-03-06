@@ -12935,6 +12935,7 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
       "Microsoft.AspNetCore.App >= 2.2.0",
+      "Microsoft.AspNetCore.Mvc.Formatters.Xml >= 2.2.0",
       "Microsoft.AspNetCore.Razor.Design >= 2.2.0",
       "Microsoft.EntityFrameworkCore.Design >= 2.2.1",
       "Microsoft.EntityFrameworkCore.SqlServer >= 2.2.1",
@@ -12950,11 +12951,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\QuotesApi\\QuotesApi\\QuotesApi.csproj",
+      "projectUniqueName": "C:\\Projects\\QuotesApiProject\\QuotesApi\\QuotesApi.csproj",
       "projectName": "QuotesApi",
-      "projectPath": "C:\\Projects\\QuotesApi\\QuotesApi\\QuotesApi.csproj",
+      "projectPath": "C:\\Projects\\QuotesApiProject\\QuotesApi\\QuotesApi.csproj",
       "packagesPath": "C:\\Users\\Doruk\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\QuotesApi\\QuotesApi\\obj\\",
+      "outputPath": "C:\\Projects\\QuotesApiProject\\QuotesApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12989,6 +12990,10 @@
             "target": "Package",
             "version": "[2.2.0, )",
             "autoReferenced": true
+          },
+          "Microsoft.AspNetCore.Mvc.Formatters.Xml": {
+            "target": "Package",
+            "version": "[2.2.0, )"
           },
           "Microsoft.AspNetCore.Razor.Design": {
             "suppressParent": "All",

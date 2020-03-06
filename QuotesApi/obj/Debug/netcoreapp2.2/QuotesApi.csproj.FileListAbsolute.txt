@@ -12,3 +12,17 @@ C:\Projects\QuotesApi\QuotesApi\obj\Debug\netcoreapp2.2\QuotesApi.AssemblyInfo.c
 C:\Projects\QuotesApi\QuotesApi\obj\Debug\netcoreapp2.2\QuotesApi.RazorTargetAssemblyInfo.cache
 C:\Projects\QuotesApi\QuotesApi\obj\Debug\netcoreapp2.2\QuotesApi.dll
 C:\Projects\QuotesApi\QuotesApi\obj\Debug\netcoreapp2.2\QuotesApi.pdb
+C:\Projects\QuotesApiProject\QuotesApi\bin\Debug\netcoreapp2.2\QuotesApi.deps.json
+C:\Projects\QuotesApiProject\QuotesApi\bin\Debug\netcoreapp2.2\QuotesApi.runtimeconfig.json
+C:\Projects\QuotesApiProject\QuotesApi\bin\Debug\netcoreapp2.2\QuotesApi.runtimeconfig.dev.json
+C:\Projects\QuotesApiProject\QuotesApi\bin\Debug\netcoreapp2.2\QuotesApi.dll
+C:\Projects\QuotesApiProject\QuotesApi\bin\Debug\netcoreapp2.2\QuotesApi.pdb
+C:\Projects\QuotesApiProject\QuotesApi\obj\Debug\netcoreapp2.2\QuotesApi.csprojAssemblyReference.cache
+C:\Projects\QuotesApiProject\QuotesApi\obj\Debug\netcoreapp2.2\QuotesApi.csproj.CoreCompileInputs.cache
+C:\Projects\QuotesApiProject\QuotesApi\obj\Debug\netcoreapp2.2\QuotesApi.RazorAssemblyInfo.cache
+C:\Projects\QuotesApiProject\QuotesApi\obj\Debug\netcoreapp2.2\QuotesApi.RazorAssemblyInfo.cs
+C:\Projects\QuotesApiProject\QuotesApi\obj\Debug\netcoreapp2.2\QuotesApi.AssemblyInfoInputs.cache
+C:\Projects\QuotesApiProject\QuotesApi\obj\Debug\netcoreapp2.2\QuotesApi.AssemblyInfo.cs
+C:\Projects\QuotesApiProject\QuotesApi\obj\Debug\netcoreapp2.2\QuotesApi.RazorTargetAssemblyInfo.cache
+C:\Projects\QuotesApiProject\QuotesApi\obj\Debug\netcoreapp2.2\QuotesApi.dll
+C:\Projects\QuotesApiProject\QuotesApi\obj\Debug\netcoreapp2.2\QuotesApi.pdb
